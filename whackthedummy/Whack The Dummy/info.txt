@@ -1,0 +1,22 @@
+Whack The Dummy
+
+Description: 
+A fun and action packed game - beat the buddy with tonnes of crazy weapons!
+
+Instructions:
+Use your mouse to play.
+
+Embed code (web):
+
+<script>
+  (function(u,w,h) {
+    var p = document.location.hostname;document.writeln('<if'+'rame src="'+u+'?portal='+p+'" width="'
+      +w+'" height="'+h+'" scrolling="none" frameborder="0'+'" allowfullscreen></if'+'rame>');
+  })("//www.box10.com/downloads/html5/whackdummy/", 800, 450);
+</script>
+
+
+More great games for your website: 
+https://www.box10.com/downloads.php
+
+Problems? Contact submissions@box10.com and let us know!
